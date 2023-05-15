@@ -4,7 +4,7 @@
 
 ## 其他参考
 
-## 个人主页参考
+### 个人主页参考
 
 - https://github.com/rajaprerak/rajaprerak.github.io
 - https://github.com/soumyajit4419/Portfolio
@@ -12,7 +12,7 @@
 
 - https://yume-sjtu.github.io/
 
-## 官方参考
+### 官方参考
 
 - https://github.com/pages-themes
   - https://github.com/pages-themes/minimal
